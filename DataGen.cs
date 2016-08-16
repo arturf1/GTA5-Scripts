@@ -1,3 +1,10 @@
+/*
+Authors: Artur Filipowicz, Jeremiah Liu
+Version: 0.9
+Copyright: 2016
+MIT License
+*/
+
 using System;
 using System.IO;
 using System.Drawing;
